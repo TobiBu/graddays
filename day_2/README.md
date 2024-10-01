@@ -5,7 +5,7 @@ In the folder slides you find the pdf of the lecture slides and the folder noteb
 
 ## Tutorials
 
-### notebooks/Autoencoder.ipynb  
+### [notebooks/Autoencoder.ipynb](https://github.com/TobiBu/graddays/blob/main/day_2/notebooks/Autoencoder.ipynb)  
 This notebook serves a the startig point to explore a plain autoencoder.
 This notebook reproduces the two moons dataset with an auoencoder and shows how this already creates some problems. Furthermore, a convolutional autoencoder is applied on the MNIST dataset. The 2D latent space is visualised for each label, showing the irregularities of the autoencoder latent space. When trying to generate data, some problems occur, which are then treated in the next notebook.
 
