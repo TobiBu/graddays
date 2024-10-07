@@ -10,3 +10,9 @@ This tutorial notebook contains some simple code to demonstarte autodiff in pyth
 
 ### [notebooks/demo_julia_AD.ipynb](https://github.com/TobiBu/graddays/blob/main/day_1/notebooks/demo_julia_AD.ipynb)
 This tutorial notebook contains some simple code to demonstarte autodiff in julia.
+
+### More general tutorials
+A very cool and exhaustive tutorial for autodiff can be found [here:](https://theoryandpractice.org/stats-ds-book/autodiff-tutorial.html)
+
+And the JAX documentation on autodiff is also a really great resource to read up on the details of autodiff and higher order derivatives.
+See [here](https://jax.readthedocs.io/en/latest/automatic-differentiation.html) for more details.  
