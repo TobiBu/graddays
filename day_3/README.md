@@ -3,6 +3,12 @@ lecture material for the third day -- Scientific ML
 
 In the folder slides you find the pdf of the lecture slides and the folder notebooks contains jupyter notebooks for the tutorials.
 
+## SBI tutorial
+
+### [notebooks/SBI_tutorial.ipynb](https://github.com/TobiBu/graddays/blob/main/day_2/notebooks/SBI_tutorial.ipynb)
+This tutorial is a very simple one to highlight how one can use Simulation-based inference for galactic modelling.
+It uses stellar chemical abundances to infer the supernova Ia normalization and the high-mass slope of the IMF.
+
 ## Neural ODE tutorials
 
 ### [notebooks/neural_ODE_code.ipynb](https://github.com/TobiBu/graddays/blob/main/day_3/notebooks/neural_ODE_code.ipynb)  
