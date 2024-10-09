@@ -34,9 +34,3 @@ This is a notebook originally written by Alexandre Adam from Montreal, Canada. I
 ### Additional notebooks
 Additionally, there is some more advance notebooks available by Yang Song showing the potential of score mathcing models.
 His awesome blog post can be found [here](https://yang-song.net/blog/2021/score/) and notebooks with example code in pytorch can be found [here](https://colab.research.google.com/drive/120kYYBOVa1i0TD85RjlEkFjaWDxSFUx3?usp=sharing) and the same notebooks in JAX [here](https://colab.research.google.com/drive/1SeXMpILhkJPjXUaesvzEhc3Ke6Zl_zxJ?usp=sharing). If you want to play around with more complex pre-trained models see [here](https://colab.research.google.com/drive/17lTrPLTt_0EDXa4hkbHmbAFQEkpRDZnh?usp=sharing) for pytroch models and [here](https://colab.research.google.com/drive/1dRR_0gNRmfLtPavX2APzUggBuXyjWW55?usp=sharing) for JAX versions. The entire code base coming with the blog post by Yang Song can be found [here](https://github.com/yang-song/score_sde_pytorch) for pytorch and [here](https://github.com/yang-song/score_sde) for JAX. 
-
-## SBI tutorial
-
-### [notebooks/SBI_tutorial.ipynb](https://github.com/TobiBu/graddays/blob/main/day_2/notebooks/SBI_tutorial.ipynb)
-This tutorial is a very simple one to highlight how one can use Simulation-based inference for galactic modelling.
-It uses stellar chemical abundances to infer the supernova Ia normalization and the high-mass slope of the IMF.
