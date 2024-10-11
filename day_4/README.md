@@ -1,5 +1,5 @@
 # Content
-lecture material for the first day -- Intro to ML for Astrophysics and differentiable Programming
+lecture material for the fourth day -- Intro to ML for Astrophysics and differentiable Programming
 
 In the folder slides you find the pdf of the lecture slides and the folder notebooks contains jupyter notebooks for the tutorials.
 
