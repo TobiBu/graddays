@@ -28,4 +28,4 @@ There is a really nice book on differentiable physics simulators called [Introdu
 
 ### [Reducing numerical errors with NNs](https://colab.research.google.com/github/tum-pbs/pbdl-book/blob/main/diffphys-code-sol.ipynb)
 
-### [Solving inverse problems with NNs](https://colab.research.google.com/github/tum-pbs/pbdl-book/blob/main/diffphys-code-control.ipynb
+### [Solving inverse problems with NNs](https://colab.research.google.com/github/tum-pbs/pbdl-book/blob/main/diffphys-code-control.ipynb)
